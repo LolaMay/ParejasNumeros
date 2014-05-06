@@ -5,7 +5,7 @@ import java.awt.GridLayout;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JButton;
-
+/* Branch segunda versión*/
 public class Marco extends javax.swing.JFrame {
     Matriz m= new Matriz(6,6);
     int click=0;
